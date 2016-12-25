@@ -1,0 +1,7 @@
+secrets.yml
+/info.conf
+/sys.conf
+/network.conf
+/weather.conf
+/battery.conf
+/data_storage.conf
