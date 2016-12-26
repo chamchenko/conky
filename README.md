@@ -2,7 +2,7 @@
 <img src='1366x768.png' width='900px'>
 
 ## Installation
-- Clone repo `git clone https://github.com/alexbel/conky.git ~/.conky`
+- Clone repo `git clone https://github.com/chamchenko/conky.git ~/.conky`
 - Install dependencies (see below)
 - Install the necessary ruby gems (see below)
 - Rename secrets.yml.example to secrets.yml and put your data in it
